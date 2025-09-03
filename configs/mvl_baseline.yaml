@@ -1,0 +1,7 @@
+root: data
+views: [rgb, ir]
+num_classes: 2
+batch_size: 8
+epochs: 1
+out_dir: results
+
